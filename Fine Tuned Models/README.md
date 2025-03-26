@@ -1,6 +1,6 @@
-| Model Number        | Name | Date Uploaded | Data Trained on |
+| Model Number        | Updated by | Date Uploaded | Data Trained on |
 |-------------------|------------|----------|--------------|
-|    0     |  Starting Model       | / /  |          |
+|    0     |         | / /  |          |
 |    1     |         | / /   |         |
 |  2   |         | / / |          |
 |   3   |         | / /  |          |
